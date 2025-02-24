@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **html, css, SASS, bootstrap**
+- 💬 Ask me about **html, css, sass, bootstrap**
 
 - 📫 How to reach me **rajendrabehera8116@gmail.com**
 
