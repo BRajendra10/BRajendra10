@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajendra10&label=Profile%20views&color=0e75b6&style=flat" alt="brajendra10" /> </p>
 
-- 🔭 I’m currently working on **Bussness CV**
+- 🔭 I’m currently working on **Bussness CV website**
 
 - 🌱 I’m currently learning **JavaScript**
 
