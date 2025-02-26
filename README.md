@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajendra10&label=Profile%20views&color=0e75b6&style=flat" alt="brajendra10" /> </p>
 
-- 🔭 I’m currently working on **Bussness CV website**
-
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **html, css, sass, bootstrap**
+- 🤝 I’m looking for help with [JS-Questions](https://github.com/BRajendra10/JS-Questions)
+
+- 👨‍💻 All of my projects are available at [https://github.com/BRajendra10?tab=repositories](https://github.com/BRajendra10?tab=repositories)
+
+- 💬 Ask me about **html, css, SASS, bootstrap**
 
 - 📫 How to reach me **rajendrabehera8116@gmail.com**
 
