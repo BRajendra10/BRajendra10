@@ -14,10 +14,6 @@ I'm a **Frontend Developer** from India, passionate about building **responsive*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRajendra10&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BRajendra10&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
@@ -27,8 +23,9 @@ I'm a **Frontend Developer** from India, passionate about building **responsive*
 
 ## 🔥 GitHub Streak Counter
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter" />
+  <img src="https://readme-streak-stats.demolab.com?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter" />
 </p>
+
 
 ## 🛠️ Languages and Tools
 <p align="left">
