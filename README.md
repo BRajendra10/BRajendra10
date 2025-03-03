@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brajendra10" alt="brajendra10" /></a> </p>
 
-- 🔭 I’m currently working on **21Days JavaScript challenge**
+- 🔭 I’m currently working on [Solving JS Logic base question(JS-Questions)](https://github.com/BRajendra10/JS-Questions)
 
 - 🌱 I’m currently learning **JavaScript**
 
