@@ -27,7 +27,7 @@ I'm a **Frontend Developer** from India, passionate about building **responsive*
 
 ## 🔥 GitHub Streak Counter
 <p align="center">
-  <img src="https://readme-streak-stats.demolab.com?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter" />
+  <img src="https://streak-stats.demolab.com?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter" />
 </p>
 
 ## 🛠️ Languages and Tools
