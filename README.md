@@ -31,7 +31,7 @@
 
 ## 🔥 GitHub Streak Counter
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajendra10&" alt="brajendra10" /></p>
 </div>
 
 ---
