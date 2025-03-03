@@ -20,8 +20,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRajendra10&theme=tokyonight" alt="GitHub Streak"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BRajendra10&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRajendra10&layout=compact&theme=dracula" alt="Top Languages"/>
