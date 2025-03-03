@@ -25,6 +25,11 @@ I'm a **Frontend Developer** from India, passionate about building **responsive*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRajendra10&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
+## 🔥 GitHub Streak Counter
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRajendra10&theme=dark&hide_border=true" alt="GitHub Streak Counter" />
+</p>
+
 ## 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
