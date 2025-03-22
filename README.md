@@ -21,7 +21,7 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 ## 📌 Resent Projects
 
 ### 🌟 Project 1: **Background Color changer**
-![Project1](https://github.com/BRajendra10/JavaScript/blob/068c7592e05c63be5193d58b64dd020c06228cfc/Background%20color%20changer/Background_color_changer.png)
+![Project1](https://github.com/BRajendra10/JavaScript/blob/main/Background%20color%20changer/Background_color_changer.png)
 - **Description:** This JavaScript code creates a simple background color changer that assigns a random color to the webpage each time a button is clicked. Additionally, the generated color code is displayed and can be copied to the clipboard by clicking on it..
 - **Tech Stack:** HTML, CSS, JavaScript.
 - [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
