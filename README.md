@@ -16,6 +16,10 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 
 > **"First, solve the problem. Then, write the code."** – John Johnson
 
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ---
 
 ## 📌 Resent Projects
@@ -26,18 +30,6 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 - **Tech Stack:** HTML, CSS, JavaScript.
 - [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
 
-### 🚀 Project 2: **Interactive Dashboard**
-![Project2](https://via.placeholder.com/600x300)
-- **Description:** A feature-rich dashboard for visualizing data.
-- **Tech Stack:** React, TypeScript, Chart.js, TailwindCSS.
-- [🔗 View Project](https://github.com/BRajendra10/project2)
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brajendra10" alt="brajendra10" /></a> </p>
-
 ---
 ## **📊 GitHub Stats**  
 
@@ -47,9 +39,3 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajendra10&" alt="GitHub Streak Stats" />
 </div>
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
