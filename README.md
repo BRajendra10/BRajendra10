@@ -8,7 +8,7 @@ const aboutMe = {
     profession: "Frontend Developer",
 
     preferredTechStack: ["HTML", "CSS", "SASS", "Bootstrap", "JavaScript"],
-    learning: ["Advanced JavaScript", "Frontend Frameworks"]
+    learning: ["Advanced JavaScript", "Frontend Frameworks"];
 };
 ```
 💻 I'm a **Frontend Developer** with a passion for creating **responsive** and **user-friendly** web applications. I love solving logic-based problems and continuously improving my skills.
