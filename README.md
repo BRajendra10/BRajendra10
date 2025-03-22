@@ -18,6 +18,11 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brajendra10" alt="brajendra10" /></a> </p>
+
+---
 ## **📊 GitHub Stats**  
 
 <div>
