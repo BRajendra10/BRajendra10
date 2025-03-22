@@ -1,17 +1,19 @@
-<h1 align="center"> Hi 👋, I'm Rajendra Behera</h1>
-
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BRajendra10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 About Me
+
+```javascript
+const aboutMe = {
+    name: "Rajendra Behera",
+    pronouns: ["he", "him"],
+    
+    profession: "Frontend Developer",
+
+    preferredTechStack: ["HTML", "CSS", "SASS", "Bootstrap", "JavaScript"],
+    learning: ["Advanced JavaScript", "Frontend Frameworks"]
+};
+```
 💻 I'm a **Frontend Developer** with a passion for creating **responsive** and **user-friendly** web applications. I love solving logic-based problems and continuously improving my skills.
 
-- 🔭 Currently working on **[JS-Questions](https://github.com/BRajendra10/JS-Questions)**
+- 🔭 Currently working on **[Personal projects](https://github.com/BRajendra10/JavaScript)**
 - 🌱 Learning **JavaScript & Frontend Development**
 - 💬 Ask me about **HTML, CSS, SASS, Bootstrap**
 - 📫 Reach me at **rajendrabehera8116@gmail.com**
