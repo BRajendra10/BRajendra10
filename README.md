@@ -11,7 +11,7 @@ const aboutMe = {
     learning: ["Advanced JavaScript", "Frontend Frameworks"];
 };
 ```
-I'm Rajendra Behera, a passionate Frontend Developer . I love building responsive, user-friendly, and modern web applications.  
+I'm Rajendra Behera, a passionate Frontend Developer. I love building responsive, user-friendly, and modern web applications.  
 Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my problem-solving skills.
 
 > **"First, solve the problem. Then, write the code."** – John Johnson
