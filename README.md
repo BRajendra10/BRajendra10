@@ -26,14 +26,6 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 - [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
 
 ---
-## **📊 GitHub Stats**  
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=BRajendra10&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRajendra10&layout=compact&theme=dracula" alt="Top Languages"/>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajendra10&" alt="GitHub Streak Stats" />
-</div>
 
 ## 💻 Tech Stack
 
