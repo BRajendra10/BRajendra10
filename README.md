@@ -24,7 +24,7 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 - **Description:** This JavaScript is a simple background color changer, it assigns a random color to the webpage each time a button is clicked. Additionally, the generated color code is displayed and can be copied to the clipboard by clicking on it..
 - **Tech Stack:** HTML, CSS, JavaScript.
 - [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
-- [🔗 View Post](https://www.linkedin.com/feed/update/urn:li:activity:7309153498724499456/)
+- [🔗 View Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7309153498724499456/)
 
 ---
 
