@@ -26,6 +26,11 @@ Currently, I'm focusing on JavaScript, Frontend Frameworks, and improving my pro
 - [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
 - [🔗 View Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7309153498724499456/)
 
+### 🌟 Project 2: **Form Validation**
+- This JavaScript-based Sign-Up Form Validation ensures that users enter valid information before submitting the form. The validation process checks each input field for correctness and provides feedback through alerts..
+- **Tech Stack:** HTML, CSS, JavaScript.
+- [🔗 View Project](https://github.com/BRajendra10/JS-Task/tree/main/DOM/Form%20validation)
+
 ---
 
 ## 💻 Tech Stack
