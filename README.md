@@ -29,6 +29,8 @@ I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in craf
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BRajendra10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajendra-behera)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/39uDDhGyaF/)
+
 
 📌 Always eager to learn new technologies and work on exciting projects!
 
