@@ -6,16 +6,17 @@ I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in craf
 
 ## 🚀 Projects
 
-### 🌟 **Background Color Changer**
-- **Description:** A simple JavaScript-based background color changer that assigns a random color to the webpage with each button click. The generated color code is displayed and can be copied to the clipboard.
-- **Tech Stack:** HTML, CSS, JavaScript.
-- [🔗 View Project](https://github.com/BRajendra10/JavaScript/tree/main/Background%20color%20changer)
-- [🔗 View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7309153498724499456/)
+### 🌟 **Hospital Website**
+- **Description:** This project incorporates advanced animations, interactive elements, and dynamic features to enhance to provide users with a seamless browsing experience.
+- **Tech Stack:** HTML, SCSS, CSS, JavaScript.
 
-### 🚀 **Form Validation**
-- **Description:** A JavaScript-powered sign-up form validation that ensures users enter valid information before submitting. It provides feedback through alerts and prevents incorrect submissions.
-- **Tech Stack:** HTML, CSS, JavaScript.
-- [🔗 View Project](https://github.com/BRajendra10/JS-Task/tree/main/DOM/Form%20validation)
+#### ✨ Features
+1. 🎨 Animated Navbar
+2. 👨‍⚕️ Specialist Container Hover Effect
+3. ✅ Form Validation with Formspree
+  
+#### output
+![View Project](https://github.com/BRajendra10/SASS/blob/92c8c44b1279f69368a931865a626f2f25bf3197/Hospital%20website%20-%20EGATOR/assets/Egator%20recording.gif)
 
 ## 💻 Tech Stack
 
