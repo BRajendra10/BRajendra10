@@ -10,12 +10,12 @@ I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in craf
 - **Description:** This project incorporates advanced animations, interactive elements, and dynamic features to enhance to provide users with a seamless browsing experience.
 - **Tech Stack:** HTML, SCSS, CSS, JavaScript.
 
-#### ✨ Features
+### ✨ Features
 1. 🎨 Animated Navbar
 2. 👨‍⚕️ Specialist Container Hover Effect
 3. ✅ Form Validation with Formspree
   
-#### Overview
+### Overview
 - [View directory](https://github.com/BRajendra10/SASS/tree/main/Hospital%20website%20-%20EGATOR)
 - [View website](https://medicrest.netlify.app/)
 
