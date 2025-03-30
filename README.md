@@ -16,8 +16,8 @@ I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in craf
 3. ✅ Form Validation with Formspree
   
 #### Overview
-- ![View directory](https://github.com/BRajendra10/SASS/tree/main/Hospital%20website%20-%20EGATOR)
-- ![View website](https://medicrest.netlify.app/)
+- [View directory](https://github.com/BRajendra10/SASS/tree/main/Hospital%20website%20-%20EGATOR)
+- [View website](https://medicrest.netlify.app/)
 
 ## 💻 Tech Stack
 
