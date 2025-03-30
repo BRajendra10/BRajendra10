@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in crafting interactive and responsive web experiences. I specialize in **HTML, CSS, JavaScript, Bootstrap, and SCSS**.
+I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in crafting interactive and responsive web experiences. I specialize in **HTML, CSS, JavaScript, Bootstrap, jQuery and SCSS**.
 
 > "The only way to do great work is to love what you do." — Steve Jobs
 
