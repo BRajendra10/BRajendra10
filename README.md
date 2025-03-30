@@ -15,8 +15,9 @@ I'm **Rajendra Behera**, a passionate Front-End Developer with expertise in craf
 2. 👨‍⚕️ Specialist Container Hover Effect
 3. ✅ Form Validation with Formspree
   
-#### output
-![View Project](https://github.com/BRajendra10/SASS/blob/92c8c44b1279f69368a931865a626f2f25bf3197/Hospital%20website%20-%20EGATOR/assets/Egator%20recording.gif)
+#### Overview
+- ![View directory](https://github.com/BRajendra10/SASS/tree/main/Hospital%20website%20-%20EGATOR)
+- ![View website](https://medicrest.netlify.app/)
 
 ## 💻 Tech Stack
 
