@@ -8,15 +8,6 @@ I'm currently focused on strengthening my front-end development skills by buildi
 
 ---
 
-## 🛠️ Currently Working On
-
-- 🧪 Exploring advanced JavaScript patterns and design principles  
-- 📚 Practicing DSA and JavaScript problem-solving on LeetCode  
-- 🎯 Building mini projects to apply real-time logic and UI design  
-- 🗂️ Documenting front-end learning topics in Notion and GitHub README
-
----
-
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
