@@ -10,16 +10,16 @@ I’m currently focusing on improving my React skills and learning how to build 
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![Sass](https://skillicons.dev/icons?i=sass) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+![React](https://skillicons.dev/icons?i=react) 
+![jQuery](https://skillicons.dev/icons?i=jquery) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Git](https://skillicons.dev/icons?i=git) 
+![Vite](https://skillicons.dev/icons?i=vite)
 
 ---
 
