@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Rajendra Behera
+# Rajendra Behera
 
-I'm Rajendra Behera, a self-taught front-end developer passionate about building modern, responsive web interfaces using HTML, CSS, JavaScript, SCSS, Tailwind CSS, and Bootstrap. I love learning by creating real-world projects and continuously improving my skills. I'm currently open to internship and freelance opportunities where I can contribute, grow, and collaborate on exciting web development projects.
+Hi, I’m Rajendra Behera — a self-taught front-end developer passionate about crafting modern, responsive, and accessible web interfaces. I specialize in HTML, CSS, JavaScript, SCSS, Tailwind CSS, Bootstrap, React, Git, and Vite, and I enjoy building real-world projects that challenge me to improve my skills and learn new tools.
 
-I'm currently focused on strengthening my front-end development skills by building mini projects and UI components. I’m also learning Git for version control and documenting my progress on GitHub and Notion. Alongside this, i am preparing myself for real-world opportunities like internships or freelance projects.
+I’m currently focusing on improving my React skills and learning how to build scroll-based and trigger-based animations to make modern websites more interactive and engaging. My goal is to become a better developer by creating meaningful projects, mastering advanced UI techniques, and working in a full-time job or internship where I can learn from others, collaborate on real projects, and deliver high-quality work.
 
 > “The only way to do great work is to love what you do.” — Steve Jobs
 
