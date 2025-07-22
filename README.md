@@ -30,5 +30,3 @@ I’m currently focusing on improving my React skills and learning how to build 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/39uDDhGyaF/) 
 
 ---
-
-🎯 **Always learning. Always building. Always improving.**, there is only one project i was shoing is there ok to show many projects
