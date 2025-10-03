@@ -19,7 +19,7 @@ I’m Rajendra Behera, a front-end developer skilled in HTML, CSS, JavaScript, R
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Real%20Time-00D8FF?style=for-the-badge&logo=websocket&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Real%20Time-00D8FF?style=for-the-badge)
 
 ---
 
