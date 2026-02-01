@@ -1,10 +1,13 @@
 # Rajendra Behera
 
-👋 Hi, I’m **Rajendra Behera** — a self‑taught **Full‑Stack Web Developer** passionate about building modern, scalable, and high‑performance web applications. I specialize in crafting interactive front‑end experiences and developing robust back‑end systems that work seamlessly together.
+👋 Hi, I’m Rajendra Behera — a self-taught Full-Stack Web Developer (Fresher) focused on building modern, scalable, and user-centric web applications.
 
-I started my journey as a front‑end developer and gradually transitioned into full‑stack development by mastering backend technologies, databases, authentication, cloud services, and API architecture. I love solving real-world problems through clean code, modern tools, and scalable design patterns.
+I work with the MERN stack (MongoDB, Express, React, Node.js) and enjoy building complete products — from clean, responsive UIs to secure APIs, authentication flows, and database-driven backends. 🚀 Currently exploring scalable backend design, authentication flows, API contracts (OpenAPI), and improving application performance.
 
-🔍 I'm currently looking for **full‑time opportunities** as a **Full‑Stack Web Developer** where I can contribute to impactful projects and continue growing in a collaborative environment.
+Through hands-on projects, I’ve been strengthening my skills in frontend development, backend architecture, REST APIs, JWT authentication, database design, and basic deployment workflows. I care about clean code, clarity in design, and learning industry-ready practices by building real things.
+
+🔍 Actively seeking full-time opportunities / internships as a Full-Stack Web Developer, where I can contribute, learn fast, and grow with a strong engineering team.
+
 
 > “The only way to do great work is to love what you do.” — *Steve Jobs*
 
