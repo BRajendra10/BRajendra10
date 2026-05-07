@@ -1,30 +1,30 @@
 # Rajendra Behera
 
-Full-Stack Developer focused on building scalable, production-ready web applications using the MERN stack.
+Full Stack Developer focused on building secure, scalable, and production-style web applications using modern JavaScript technologies.
 
-I build across the stack — from responsive user interfaces to secure APIs and structured backend systems. My focus is on maintainable architecture, performance, and real-world backend patterns.
+I work across the stack — from responsive frontend interfaces to backend systems involving authentication, API design, database architecture, and structured application workflows. My primary focus is building maintainable systems with clear architecture, performance awareness, and real-world implementation patterns.
 
-I treat development as a system design problem — not just implementing features, but defining how components interact, scale, and evolve.
+I approach development with an engineering mindset focused on scalability, maintainability, and long-term system structure.
 
 ---
 
 ## ⚙️ What I Work On
 
-- Designing REST APIs with clear contracts (OpenAPI mindset)  
-- Authentication systems (JWT, session handling, security considerations)  
-- Backend architecture (modular structure, controllers/services separation)  
-- State management and UI architecture in React  
-- Data modeling and database interactions (MongoDB, MySQL)  
-- Performance optimization and debugging (API latency, caching strategies)  
+- Designing REST APIs with structured and maintainable architecture  
+- Authentication and authorization systems (JWT, RBAC, session handling)  
+- Backend architecture with modular patterns and service separation  
+- React-based frontend applications with scalable state management  
+- Database design and structured data interactions using MongoDB and MySQL  
+- Performance optimization, debugging, and API reliability improvements  
 
 ---
 
 ## 📌 Current Focus
 
-- Scalable backend design patterns  
-- API contract standardization (OpenAPI / Swagger mindset)  
-- Caching strategies and performance tuning  
-- Writing cleaner, maintainable codebases  
+- Backend architecture and scalable application patterns  
+- API standardization and maintainable backend workflows  
+- Performance optimization and efficient data handling  
+- Writing cleaner, production-oriented codebases  
 
 ---
 
@@ -63,4 +63,4 @@ I treat development as a system design problem — not just implementing feature
 
 ---
 
-⭐ If you find my work useful, consider starring my repositories or connecting.
+⭐ Focused on building secure backend systems, scalable APIs, and maintainable full stack applications.
